@@ -1,4 +1,4 @@
-const urlbase = "postgresql://postgre:bFliNn8RLTEOz7FHLlkRxiuLBSznvJr5@dpg-ct0g0pt6l47c73b4omqg-a.oregon-postgres.render.com/abp_teste";
+const urlbase = "https://abp-projeto-pronto.onrender.com";
 // Variável usada para manter os dados do usuário logado
 // A função carregarLogin verifica se o usuário está logado e carrega na variável usuarioLogado
 let usuarioLogado = undefined;
